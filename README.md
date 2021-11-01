@@ -1,1 +1,1 @@
-# dulce
+This is Halloween theme game.
